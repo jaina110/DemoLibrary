@@ -82,7 +82,7 @@ s.license      = "MIT"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/jaina110/DemoLibrary", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/jaina110/DemoLibrary.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
